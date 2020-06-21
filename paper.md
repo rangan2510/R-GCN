@@ -15,3 +15,17 @@ Graph Convolutional Networks (GCNs) have recently received a lot of attention fo
 
 ## Introduction
 
+Graph Convolutional Networks (GCNs) have gained a lot of traction recently with the increased availbility of graph datasets. GCNs have shown potential in a lot of potential in multiple domains that deal with unstructured data, such as social networks, recommendataion systems, ...
+
+
+## Representation Learning on Graphs
+[short desc of graph conv + SAGEconv]
+
+## Residual Graph Convolution Networks
+
+## Results
+### Ablation Study
+
+## Conclusion
+
+
